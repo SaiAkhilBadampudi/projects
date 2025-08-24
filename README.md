@@ -1,4 +1,4 @@
-Sai Subrahmanya Akhil Badampudi 👋
+#Sai Subrahmanya Akhil Badampudi 👋
 Data Engineering Professional | 3+ years of experience designing scalable ETL pipelines, data models, and cloud-based analytics solutions. Proven ability to leverage SQL, Python, Spark, and Azure to optimize data platforms and drive business insights. Actively seeking opportunities to lead impactful data initiatives and deliver advanced analytics solutions.
 
 🌟 Certifications
