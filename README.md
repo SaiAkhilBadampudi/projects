@@ -71,4 +71,4 @@ I'm passionate about **building scalable data pipelines**, developing **cloud-na
 ## 📫 Get in Touch
 
 * **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sai-subrahmanya-akhil-badampudi/)
-* **Email:** saiakhil.badampudil@gmail.com
+* **Email:** ssakhil.badampudil@gmail.com
